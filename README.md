@@ -1,2 +1,2 @@
-# 8-Bit-Adder-
+# 8-Bit Adder
 An 8-Bit Adder 
